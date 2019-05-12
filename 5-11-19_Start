@@ -1,0 +1,19 @@
+Starting off, this is going to be a challenge. I haven't written anything that's like a journal in a long time so bear with me as I get my writing legs back. 
+That said, I started doing DevOps/SysAdmin work around September of last year with a non-profit school. 
+There was a substantial infrastructure already in place and lots of guidance between the people who work there and the people who previously held the position.
+I came into the position only knowing a little C, a little C#, and a LOT of Chemistry. 
+Very little of my past experience was useful outside of problem solving and I was a bit scared after the talk they gave me on my first day: 
+
+"Protect the server. Protect our services. If things are broken and you're working on them, that's fine. But, if we're letting you know that things are broken, that's a problem."
+
+First emotion that came up was determination. I was determined to make sure nothing broke on my watch if I could help it. 
+Next, was a bit of fear. I didn't know any of our systems and knew that I had to figure that out first if I would ever be able to do that.
+
+I still don't fully grasp all of the services and servers that are associated with where I work, But I've been becoming more and more knowledgable as the days progress. 
+I'll talk about some of my projects as the blog progresses. I'm doing this for two reasons:
+
+ 1) To be able to better describe what I can do - I'm looking for a job right now and practice anywhere is always good.
+
+2) If you're trying to figure out if you have what it takes to be a DevOps Engineer, SysAdmin, or an SRE, you should know that most likely you'll do fine after reading my experiences. 
+
+With all of that said, welcome to my attempt at a blog: Zero-to DevOps!
